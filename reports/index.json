@@ -1,90 +1,63 @@
-{
-  "colorPalette": "slate-silver",
-  "glassSurfaces": false,
-  "entries": [
-    {
-      "id": "20260408-142400-be84",
-      "title": "Billie Jöe",
-      "commanders": [
-        "Billie Jöe"
+[
+  {
+    "id": "20260408-142400-be84",
+    "title": "Billie Jöe",
+    "commanders": [
+      "Billie Jöe"
+    ],
+    "dateStart": "2026-04-08T18:24:00.000Z",
+    "dateEnd": "2026-04-08T19:18:21.000Z",
+    "dateLabel": "4/8/2026, 2:24:00 PM - 4/8/2026, 3:18:21 PM",
+    "url": "https://snappehead.github.io/GW2/?report=20260408-142400-be84",
+    "summary": {
+      "borderlandsPct": 0.5789473684210527,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-04-08T18:24:00.000Z",
-      "dateEnd": "2026-04-08T19:18:21.000Z",
-      "dateLabel": "4/8/2026, 2:24:00 PM - 4/8/2026, 3:18:21 PM",
-      "url": "https://snappehead.github.io/GW2/?report=20260408-142400-be84",
-      "summary": {
-        "borderlandsPct": 0.5789473684210527,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 5,
-        "avgEnemySize": 4
-      }
-    },
-    {
-      "id": "20260408-145212-lqrg",
-      "title": "Billie Jöe",
-      "commanders": [
-        "Billie Jöe"
-      ],
-      "dateStart": "2026-04-08T18:52:12.000Z",
-      "dateEnd": "2026-04-08T19:18:21.000Z",
-      "dateLabel": "4/8/2026, 2:52:12 PM - 4/8/2026, 3:18:21 PM",
-      "url": "https://snappehead.github.io/GW2/?report=20260408-145212-lqrg",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 1
-      }
-    },
-    {
-      "id": "20260408-201933-iz4l",
-      "title": "Stevie Ray Vaughnx",
-      "commanders": [
-        "Stevie Ray Vaughnx"
-      ],
-      "dateStart": "2026-04-09T00:19:33.000Z",
-      "dateEnd": "2026-04-09T02:02:46.000Z",
-      "dateLabel": "4/8/2026, 8:19:33 PM - 4/8/2026, 10:02:46 PM",
-      "url": "https://snappehead.github.io/GW2/?report=20260408-201933-iz4l",
-      "summary": {
-        "borderlandsPct": 0.5384615384615384,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 6,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 19
-      }
+      "avgSquadSize": 5,
+      "avgEnemySize": 4
     }
-  ]
-}
+  },
+  {
+    "id": "20260408-201933-iz4l",
+    "title": "Stevie Ray Vaughnx",
+    "commanders": [
+      "Stevie Ray Vaughnx"
+    ],
+    "dateStart": "2026-04-09T00:19:33.000Z",
+    "dateEnd": "2026-04-09T02:02:46.000Z",
+    "dateLabel": "4/8/2026, 8:19:33 PM - 4/8/2026, 10:02:46 PM",
+    "url": "https://snappehead.github.io/GW2/?report=20260408-201933-iz4l",
+    "summary": {
+      "borderlandsPct": 0.5384615384615384,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 6,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 19
+    }
+  }
+]
