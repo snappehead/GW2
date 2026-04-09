@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-142400-be84",
+      "title": "Billie Jöe",
+      "commanders": [
+        "Billie Jöe"
+      ],
+      "dateStart": "2026-04-08T18:24:00.000Z",
+      "dateEnd": "2026-04-08T19:18:21.000Z",
+      "dateLabel": "4/8/2026, 2:24:00 PM - 4/8/2026, 3:18:21 PM",
+      "url": "https://snappehead.github.io/GW2/?report=20260408-142400-be84",
+      "summary": {
+        "borderlandsPct": 0.5789473684210527,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20260408-145212-lqrg",
       "title": "Billie Jöe",
       "commanders": [
