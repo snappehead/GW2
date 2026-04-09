@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-145212-lqrg",
+      "title": "Billie Jöe",
+      "commanders": [
+        "Billie Jöe"
+      ],
+      "dateStart": "2026-04-08T18:52:12.000Z",
+      "dateEnd": "2026-04-08T19:18:21.000Z",
+      "dateLabel": "4/8/2026, 2:52:12 PM - 4/8/2026, 3:18:21 PM",
+      "url": "https://snappehead.github.io/GW2/?report=20260408-145212-lqrg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260408-201933-iz4l",
       "title": "Stevie Ray Vaughnx",
       "commanders": [
