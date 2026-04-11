@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-084304-nspl",
+      "title": "Dtraze",
+      "commanders": [
+        "Dtraze"
+      ],
+      "dateStart": "2026-04-11T12:43:04.000Z",
+      "dateEnd": "2026-04-11T13:30:09.000Z",
+      "dateLabel": "4/11/2026, 8:43:04 AM - 4/11/2026, 9:30:09 AM",
+      "url": "https://snappehead.github.io/GW2/?report=20260411-084304-nspl",
+      "summary": {
+        "borderlandsPct": 0.2631578947368421,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260408-105253-w3c8",
       "title": "Dtraze",
       "commanders": [
