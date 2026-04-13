@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-205416-eoee",
+      "title": "Difenda Sobekki",
+      "commanders": [
+        "Difenda Sobekki"
+      ],
+      "dateStart": "2026-04-13T00:54:16.000Z",
+      "dateEnd": "2026-04-13T01:22:32.000Z",
+      "dateLabel": "4/12/2026, 8:54:16 PM - 4/12/2026, 9:22:32 PM",
+      "url": "https://snappehead.github.io/GW2/?report=20260412-205416-eoee",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260411-112802-4r5c",
       "title": "Dtraze",
       "commanders": [
